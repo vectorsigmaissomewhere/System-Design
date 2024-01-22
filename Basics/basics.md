@@ -17,4 +17,4 @@
 <p>Page 8</p><br />
 <img src="https://github.com/whocanbevectorsigma/System-Design/blob/main/Basics/databases2.jpg" />
 <p>Page 9</p><br />
-<h3>More updates is coming tomorrow<p>&hearts; beats<p></h3>
+<h3>More updates is coming tomorrow<p>&hearts; your vector is here<p></h3>
