@@ -17,4 +17,28 @@
 <p>Page 8</p><br />
 <img src="https://github.com/whocanbevectorsigma/System-Design/blob/main/Basics/databases2.jpg" />
 <p>Page 9</p><br />
+<img src="https://github.com/whocanbevectorsigma/System-Design/blob/main/Basics/anatonomyofappservices.jpg"/>
+<p>Page 10</p><br />
+<img src="https://github.com/whocanbevectorsigma/System-Design/blob/main/Basics/anatonomyofappandservices.jpg"/>
+<p>Page 11</p><br />
+<img src="https://github.com/whocanbevectorsigma/System-Design/blob/main/Basics/api1.jpg"/>
+<p>Page 12</p><br />
+<img src="https://github.com/whocanbevectorsigma/System-Design/blob/main/Basics/caching1.jpg"/>
+<p>Page 13</p><br />
+<img src="https://github.com/whocanbevectorsigma/System-Design/blob/main/Basics/caching101.jpg"/>
+<p>Page 14</p><br />
+<img src="https://github.com/whocanbevectorsigma/System-Design/blob/main/Basics/caching2.jpg"/>
+<p>Page 15</p><br />
+<img src="https://github.com/whocanbevectorsigma/System-Design/blob/main/Basics/caching3.jpg"/>
+<p>Page 16</p><br />
+<img src="https://github.com/whocanbevectorsigma/System-Design/blob/main/Basics/restapi1.jpg"/>
+<p>Page 17</p><br />
+<img src="https://github.com/whocanbevectorsigma/System-Design/blob/main/Basics/restapi2.jpg"/>
+<p>Page 18</p><br />
+<img src="https://github.com/whocanbevectorsigma/System-Design/blob/main/Basics/restapi3.jpg"/>
+<p>Page 19</p><br />
+<img src="https://github.com/whocanbevectorsigma/System-Design/blob/main/Basics/restapi4.jpg"/>
+<p>Page 20</p><br />
+<img src="https://github.com/whocanbevectorsigma/System-Design/blob/main/Basics/restapi5.jpg"/>
 <h3>More updates is coming tomorrow<p>&hearts; your vector is here<p></h3>
+
